@@ -14,7 +14,6 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 
 ## ⚙ Execução desse projeto:
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
-2. **GitHubPages:** pode também acessar o projeto nesse [link](https://marcoswinther.github.io/project-css-dio-clone-youtube/), que abrirá esse projeto no GitHubPages, sem precisar baixar o repositório na sua máquina.
 
 ## 🤔 O que foi feito nesse projeto:
 - Crei um clone da página do Youtube utilizando os conceitos de Flexbox;
