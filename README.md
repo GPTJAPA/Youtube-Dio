@@ -10,7 +10,7 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 
 ## 🖥 Preview:
 ![Imagem do Projeto](assets/img/projeto-clone-youtube.JPG)
-- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://marcoswinther.github.io/project-css-dio-clone-youtube/)
+- Venha ver como ficou o projeto acessando (https://copiayoutubegustavo.netlify.app/)
 
 ## ⚙ Execução desse projeto:
 1. **Clonar Repósitório:** basta utilizar o comando `git clone` para clonar esse projeto e salvar na máquina e depois executar o arquivo `index.html`.
